@@ -1,3 +1,2 @@
-# gitauproj
-I am Gitau  
+# gitauproj 
 Python engineer and Arduino Dev
